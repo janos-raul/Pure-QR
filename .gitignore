@@ -1,0 +1,11 @@
+# Ignore everything by default
+/*
+
+# Except these files/folders
+!/README.md
+!/.gitignore
+!/public/
+
+# Inside /public, ignore everything except the Privacy Policy
+/public/*
+!/public/Pure-QR_PrivacyPolicy.md
