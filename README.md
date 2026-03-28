@@ -9,6 +9,12 @@
 
 ---
 
+## 📺 Feature Showcase
+
+[![Watch the video](https://img.youtube.com/vi/M7jd88qSAsY/0.jpg)](https://www.youtube.com/watch?v=M7jd88qSAsY)
+
+---
+
 ## 🚀 Key Features
 
 ### 🔍 Smart Scanner & Inspector
