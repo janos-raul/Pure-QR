@@ -6,6 +6,10 @@
 !/LICENSE
 !/.gitignore
 !/public/
+!/img/
+!/index.html
+!/privacy.html
+!/web_assets/
 
 # Inside /public, ignore everything except the Privacy Policy
 /public/*
