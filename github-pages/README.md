@@ -1,13 +1,13 @@
 # Pure-QR - Web Showcase 📱✨
 
-This branch serves the [Pure-QR](https://github.com/pure-qr/Pure-QR) GitHub Pages site.
+This branch serves the [Pure-QR](https://github.com/janos-raul/pure-qr) GitHub Pages site.
 
 **Pure-QR** is a minimalist, privacy-first Android application designed for generating and scanning QR codes and barcodes. It ensures all data stays on your device—no internet, no tracking, no compromise.
 
 ---
 
 ## 🌐 Live Page
-Visit the live showcase here: [https://pure-qr.github.io/Pure-QR/](https://pure-qr.github.io/Pure-QR/)
+Visit the live showcase here: [https://pure-qr.eu](https://pure-qr.eu/)
 
 ---
 
@@ -37,14 +37,14 @@ Generate high-quality QR codes for:
 
 - **100% Offline:** No internet permissions requested.
 - **Zero Tracking:** No analytics, no ads, no background services.
-- **[View Privacy Policy](https://pure-qr.github.io/Pure-QR/privacy.html)**
+- **[View Privacy Policy](https://raw.githubusercontent.com/janos-raul/Pure-QR/refs/heads/main/public/Pure-QR_PrivacyPolicy.md)**
 
 ---
 
 ## 🛠 Project Info
 
 - **License:** MIT
-- **Main Repository:** [Pure-QR on GitHub](https://github.com/pure-qr/Pure-QR)
+- **Main Repository:** [Pure-QR on GitHub](https://github.com/janos-raul/Pure-QR)
 - **Tech Stack:** Jetpack Compose, CameraX, Google ML Kit, ZXing.
 
 ---
