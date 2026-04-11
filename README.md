@@ -11,7 +11,20 @@
 
 ## 📺 Feature Showcase
 
-[![Watch the video](https://img.youtube.com/vi/M7jd88qSAsY/0.jpg)](https://www.youtube.com/watch?v=M7jd88qSAsY)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=M7jd88qSAsY">
+        <img src="https://img.youtube.com/vi/M7jd88qSAsY/0.jpg" alt="Watch the video" height="320">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.pureqr.app">
+        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="80">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
