@@ -1,15 +1,13 @@
 PureQR – Privacy Policy
-Last updated: March 28, 2026
+Last updated: April 13, 2026
 
 PureQR is committed to protecting your privacy. This app is designed to operate 100% offline and does not collect, store, or transmit any personal data.
 
 1. No Data Collection
    PureQR does not collect, store, share, or process any personal information.
    The app does not use:
-   - Analytics
    - Tracking technologies
    - Advertising SDKs
-   - Crash reporting services
    - External servers or cloud services
    
    All QR code generation and scanning happens locally on your device.
@@ -17,6 +15,7 @@ PureQR is committed to protecting your privacy. This app is designed to operate 
 2. No Internet Access
    PureQR does not request or use internet permissions.
    The app cannot send or receive data over the network.
+   The app includes a link to the PureQR website. Tapping it opens your default browser as a separate app — PureQR itself does not make any network requests or transmit any data.
 
 3. Camera Access
    When you use the Scanner feature:
