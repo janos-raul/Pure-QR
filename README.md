@@ -62,7 +62,7 @@ We believe your data belongs to you.
 - **100% Offline:** No internet permissions requested.
 - **Zero Tracking:** No analytics, no ads, no background services.
 - **Local Analysis:** The Payload Inspector identifies tracking links locally without external lookups.
-- **[Read our full Privacy Policy](docs/Pure-QR_PrivacyPolicy.md)**
+- **[Read our full Privacy Policy](https://raw.githubusercontent.com/janos-raul/Pure-QR/refs/heads/main/public/Pure-QR_PrivacyPolicy.md)**
 
 ---
 
