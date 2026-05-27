@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pure-qr.eu/sitemap.xml
