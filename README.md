@@ -15,7 +15,7 @@
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=M7jd88qSAsY">
-        <img src="https://img.youtube.com/vi/M7jd88qSAsY/0.jpg" alt="Watch the video" height="300">
+        <img src="https://img.youtube.com/vi/M7jd88qSAsY/0.jpg" alt="Watch the video" height="320">
       </a>
     </td>
     <td align="center">
