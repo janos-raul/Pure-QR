@@ -1,14 +1,27 @@
-# Ignore everything by default
-/*
+# Android
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
 
-# Except these files/folders
-!/README.md
-!/LICENSE
-!/.gitignore
-!/public/
-!/github-pages
+# Signing files
+*.jks
+*.keystore
+app/keystore.properties
 
+# Kotlin
+*.versions.toml.bin
 
-# Inside /public, ignore everything except the Privacy Policy
-/public/*
-!/public/Pure-QR_PrivacyPolicy.md
+docs/
