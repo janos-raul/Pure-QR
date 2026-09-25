@@ -25,3 +25,4 @@ app/keystore.properties
 *.versions.toml.bin
 
 docs/
+debug/
